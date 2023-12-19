@@ -1,6 +1,8 @@
+<h1 align="center">👋 HELLO'  Welcome  to my GitHub profile </h1>
+
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
-![image](https://github.com/rohitrkvarathe111/rohitrkvarathe111/assets/117350053/19753ccc-796e-4043-be5f-64cde2114b21)
+
 
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
