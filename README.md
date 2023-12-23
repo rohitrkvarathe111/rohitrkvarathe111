@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Machine learning & AI**
 
-- 👨‍💻 All my projects and my portfolio are available here [https://rohitvarathe.pythonanywhere.com](https://rohitvarathe.pythonanywhere.com)
+- 👨‍💻 All my projects and my portfolio are available here [rohitvarathe.pythonanywhere.com](https://rohitvarathe.pythonanywhere.com)
 
 - 💬 Ask me about **Python, Django & Data Science AI , ML**
 
