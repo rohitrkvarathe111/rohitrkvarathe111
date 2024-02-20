@@ -19,7 +19,7 @@
 
 - 👨‍💻 All my projects and my portfolio are available here [rohitvarathe.pythonanywhere.com](https://rohitvarathe.pythonanywhere.com)
 
-- 💬 Ask me about **Python, Django & Data Science AI , ML**
+- 💬 Ask me about **Python, Django Data Analysis & Data Science AI , ML**
 
 - 📫 How to reach me **rohitrkvarathe111@gmail.com**
 
