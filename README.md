@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitrkvarathe" target="blank"><img src="https://img.shields.io/twitter/follow/rohitrkvarathe?logo=twitter&style=for-the-badge" alt="rohitrkvarathe" /></a> </p>
 
-- 🔭 I’m currently working as a **Python Developer Trainee** at Codenera
+- 🔭 I’m currently working as a **Trainee** at Gtropy  [A MapmyIndia Company]
 
 - 🌱 I’m currently learning **Machine learning & AI**
 
