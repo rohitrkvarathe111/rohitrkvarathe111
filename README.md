@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **rohitrkvarathe111@gmail.com**
 
-- ⚡ Fun fact **I am not Funny 😂🤣**
+- ⚡ Fun fact **🧠 I have useless knowledge and I’m not afraid to use it.**
 
 
 <h3 align="left">Connect with me:</h3>
