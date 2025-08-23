@@ -35,40 +35,29 @@
 
 <h3 align="center">🌐 Connect with me:</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://twitter.com/rohitrkvarathe" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" />
-        <br />Twitter
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://linkedin.com/in/rohitrkvarathe111" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
-        <br />LinkedIn
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://kaggle.com/rohitvarathe" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" width="40" />
-        <br />Kaggle
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://fb.com/rohitrkvarathe111" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
-        <br />Facebook
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://instagram.com/i_m_rohit29" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
-        <br />Instagram
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center" style="display: flex; justify-content: space-around; gap: 30px;">
+  <a href="https://twitter.com/rohitrkvarathe" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" />
+    <br/>Twitter
+  </a>
+  <a href="https://linkedin.com/in/rohitrkvarathe111" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+    <br/>LinkedIn
+  </a>
+  <a href="https://kaggle.com/rohitvarathe" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" width="40" />
+    <br/>Kaggle
+  </a>
+  <a href="https://fb.com/rohitrkvarathe111" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
+    <br/>Facebook
+  </a>
+  <a href="https://instagram.com/i_m_rohit29" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
+    <br/>Instagram
+  </a>
+</p>
+
  
 
 
