@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitrkvarathe111/rohitrkvarathe111/main/assets/gradient-text.svg" />
+</p>
 
 
 
