@@ -1,4 +1,23 @@
-<img src="https://raw.githubusercontent.com/rohitrkvarathe111/rohitrkvarathe111/main/assets/gradient.svg" width="100%" />
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="80">
+  <defs>
+    <!-- Define animated gradient -->
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6a00">
+        <animate attributeName="stop-color" values="#ff6a00;#ee0979;#00c9ff;#ff6a00" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00c9ff">
+        <animate attributeName="stop-color" values="#00c9ff;#ff6a00;#ee0979;#00c9ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Gradient Transparent Text -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="36" font-weight="bold" font-family="Arial, sans-serif"
+        fill="url(#grad)" fill-opacity="0.9">
+    👋 HELLO' Welcome to my GitHub profile
+  </text>
+</svg>
 
 
 
