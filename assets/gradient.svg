@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="80">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="100">
   <defs>
-    <!-- Define animated gradient -->
+    <!-- Gradient -->
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff6a00">
         <animate attributeName="stop-color" values="#ff6a00;#ee0979;#00c9ff;#ff6a00" dur="8s" repeatCount="indefinite"/>
@@ -11,9 +11,9 @@
     </linearGradient>
   </defs>
 
-  <!-- Gradient Transparent Text -->
+  <!-- Full width text -->
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="36" font-weight="bold" font-family="Arial, sans-serif"
+        font-size="48" font-weight="bold" font-family="Arial, sans-serif"
         fill="url(#grad)" fill-opacity="0.9">
     👋 HELLO' Welcome to my GitHub profile
   </text>
