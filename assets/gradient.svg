@@ -15,6 +15,18 @@
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-size="48" font-weight="bold" font-family="Arial, sans-serif"
         fill="url(#grad)" fill-opacity="0.9">
-    👋 HELLO' Welcome to my GitHub profile
+    <!-- Hand with waving animation -->
+    <tspan id="hand" dy="0">👋</tspan>
+    <tspan dx="10">HELLO' Welcome to my GitHub profile</tspan>
   </text>
+
+  <!-- Hand wave animation -->
+  <animateTransform 
+    xlink:href="#hand"
+    attributeName="transform"
+    attributeType="XML"
+    type="rotate"
+    values="0 580 60; 20 580 60; 0 580 60; -20 580 60; 0 580 60"
+    dur="2s"
+    repeatCount="indefinite"/>
 </svg>
