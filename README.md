@@ -12,7 +12,7 @@
 
 
 <h1 align="center">Hi   👋, I'm Rohit</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dTNzcndleHM4Z2t0MTJjNGtzeHk3NDk4bjF2anlmcDQwZ2xveWV3MyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohitrkvarathe" target="blank"><img src="https://img.shields.io/twitter/follow/rohitrkvarathe?logo=twitter&style=for-the-badge" alt="rohitrkvarathe" /></a> </p>
 
-- 🔭 I’m currently working as a **Software Developer** at Gtropy  [A MapmyIndia Company]
+- 🔭 I’m currently working as a **Software Engineer** at Gtropy  [A MapmyIndia Company]
 
 - 🌱 I’m currently learning **Machine learning & AI**
 
