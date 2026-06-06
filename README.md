@@ -106,10 +106,6 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0e4d92&height=3&section=header" width="100%"/>
 </div>
 
-<br/>
-
----
-
 ## ⚡ At a Glance
 
 <div align="center">
