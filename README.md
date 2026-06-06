@@ -261,11 +261,6 @@ me.say_hi()
 </div>
 
 <br/>
-
----
-
-## 🌊 Currently Learning
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00C6FF&center=true&vCenter=true&width=500&lines=📚+Machine+Learning+%26+Deep+Learning;🤖+Large+Language+Models+(LLMs);🧠+Generative+AI+%26+Prompt+Engineering;🔗+LangChain+%26+Vector+Databases;🚀+Building+AI-powered+Microservices" />
