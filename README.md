@@ -1,6 +1,17 @@
 <div align="center">
 
-<!-- Animated Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitrkvarathe111/rohitrkvarathe111/main/assets/gradient.svg" width="100%" />
+</p>
+
+<div align="center">
+
+<!-- Animated name banner using svg text - no external capsule-render -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=700&height=80&lines=ROHIT+VARATHE" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=99999&color=00D4FF&background=0D111700&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Backend+%7C+Data+%7C+AI+%26+ML" alt="Title" />
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:061533,60:0e4d92,100:00c6ff&height=250&section=header&text=Rohit%20Varathe&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Data%20%7C%20AI%20%26%20ML&descAlignY=65&descSize=18&animation=fadeIn&stroke=00c6ff&strokeWidth=2" width="100%"/>
 
 </div>
