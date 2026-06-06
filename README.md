@@ -3,22 +3,31 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d4ff&height=220&section=header&text=Rohit%20Varathe&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Data%20%7C%20AI%20%26%20ML&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+
+<!-- Animated name banner using svg text - no external capsule-render -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=700&height=80&lines=ROHIT+VARATHE" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=99999&color=00D4FF&background=0D111700&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Backend+%7C+Data+%7C+AI+%26+ML" alt="Title" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Rohit+%F0%9F%91%8B;Software+Engineer+%40+Genesis+Tech+Engineers;Python+%7C+Django+%7C+FastAPI+Specialist;ETL+Pipelines+%26+Data+Engineering;AI+%26+ML+Explorer+%F0%9F%A4%96;Building+Scalable+Production+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Rohit+%F0%9F%91%8B;Software+Engineer+%40+Genesis+Tech+Engineers;Python+%7C+Django+%7C+FastAPI+Specialist;ETL+Pipelines+%26+Data+Engineering;AI+%26+ML+Explorer+%F0%9F%A4%96;Building+Scalable+Production+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitrkvarathe111&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="rohitrkvarathe111" />
+  <img src="https://komarev.com/ghpvc/?username=rohitrkvarathe111&label=Profile+views&color=0e75b6&style=for-the-badge" />
   &nbsp;
   <a href="https://twitter.com/rohitrkvarathe">
-    <img src="https://img.shields.io/twitter/follow/rohitrkvarathe?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow"/>
+    <img src="https://img.shields.io/twitter/follow/rohitrkvarathe?logo=twitter&style=for-the-badge&color=1DA1F2" />
+  </a>
+  &nbsp;
+  <a href="https://flowcv.com/resume/pessa029le">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-0e75b6?style=for-the-badge&logoColor=white" />
   </a>
 </div>
 
@@ -26,36 +35,51 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
+## 💡 About Me
 
-### 💡 About Me
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```python
 class RohitVarathe:
     name     = "Rohit Varathe"
     location = "Pune, India 🇮🇳"
-    role     = "Software Engineer @ Genesis Tech Engineers"
-    prev     = "Software Engineer @ Gtropy (MapmyIndia)"
-    stack    = ["Python", "Django", "FastAPI", "PostgreSQL", "Redis", "Docker"]
-    learning = ["Machine Learning", "AI", "LLMs", "Generative AI"]
+    role     = "Software Engineer"
+    company  = "Genesis Tech Engineers Pvt. Ltd."
+    prev     = "Gtropy — A MapmyIndia Company"
+    stack    = ["Python", "Django", "FastAPI",
+                "PostgreSQL", "Redis", "Docker"]
+    learning = ["Machine Learning", "AI",
+                "LLMs", "Generative AI"]
     contact  = "rohitrkvarathe111@gmail.com"
-    fun_fact = "🧠 I have useless knowledge & I'm not afraid to use it."
+    fun_fact = "🧠 Useless knowledge collector 😄"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something awesome 🚀")
+        print("Let's build something awesome 🚀")
 
 me = RohitVarathe()
 me.say_hi()
 ```
 
-- 🔭 Currently @ **Genesis Tech Engineers** — building ETL pipelines & data automation
-- 🏢 Previously @ **Gtropy (MapmyIndia)** — improved page load times by **30%**
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="280" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
+
+- 🔭 Currently @ **Genesis Tech Engineers** — ETL pipelines & data automation
+- 🏢 Previously @ **Gtropy (MapmyIndia)** — reduced page load times by **30%**
 - 🌱 Deep-diving into **Machine Learning, AI & LLMs**
 - 👨‍💻 Portfolio: **[rohit.infoz.online](https://rohit.infoz.online/)**
 - 💬 Ask me about **Python · Django · FastAPI · Data Science · ETL**
-- 📫 **rohitrkvarathe111@gmail.com** · 📞 +91 9109657657
+- 📫 **rohitrkvarathe111@gmail.com** &nbsp;|&nbsp; 📞 +91 9109657657
+- 📄 **[Download My Resume](https://flowcv.com/resume/pessa029le)**
 
-<br clear="right"/>
+<br/>
 
 ---
 
@@ -82,6 +106,9 @@ me.say_hi()
   </a>&nbsp;
   <a href="mailto:rohitrkvarathe111@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://flowcv.com/resume/pessa029le" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-00875A?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
 </div>
 
@@ -91,71 +118,12 @@ me.say_hi()
 
 ## 💼 Work Experience
 
-| Period | Role | Company |
-|--------|------|---------|
-| 🟢 Feb 2026 – Present | Software Engineer | Genesis Tech Engineers Pvt. Ltd., Pune |
-| 🔵 Jan 2024 – Jan 2026 | Software Engineer | Gtropy – A MapmyIndia Company, Delhi |
-| 🟡 Aug 2023 – Dec 2023 | Python Full Stack Intern | Codenera (Remote) |
-| 🟠 Dec 2022 – Feb 2023 | Data Science Intern | Corizo (Remote) |
-
-<br/>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 TopTenBazar — Grocery Delivery Platform
-`Sep 2025 – Jan 2026` · Freelance
-
-- REST APIs with **Python + Django** for web & mobile
-- **PostgreSQL** for data management, **Redis** for caching
-- **Firebase** Realtime Messaging for live order tracking
-- **AWS S3** for scalable media storage
-- Deployed on **Ubuntu Linux** (secure, high-availability)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚚 TransFleet ERP — Fleet Management System
-`Mar 2025 – Jan 2026` · Gtropy
-
-- Full ERP: Orders, Drivers, Expenses, Users
-- **Django REST Framework + PostgreSQL + Redis + Docker**
-- RESTful APIs + data analytics & visualization
-- Redis caching + containerized for scalable deployment
-- Automated data processing & report generation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📡 GTropy IMEI Information System
-`Aug 2024 – Sep 2024` · Gtropy
-
-- RESTful APIs with **Django REST + Redis + SQL**
-- Optimized large-scale IMEI data filtering
-- **Redis caching** reduced response time significantly
-- Real-time IMEI info access in one click
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Data Science Projects
-`Internship @ Corizo`
-
-- **Stock Price Prediction** using ML algorithms
-- **Wine Quality Analysis** with Scikit-learn
-- Data reporting, visualization & performance analysis
-- Power BI dashboards for actionable insights
-
-</td>
-</tr>
-</table>
+| &nbsp; | Period | Role | Company |
+|--------|--------|------|---------|
+| 🟢 | Feb 2026 – Present | Software Engineer | Genesis Tech Engineers Pvt. Ltd., Pune |
+| 🔵 | Jan 2024 – Jan 2026 | Software Engineer | Gtropy – A MapmyIndia Company, Delhi |
+| 🟡 | Aug 2023 – Dec 2023 | Python Full Stack Intern | Codenera (Remote) |
+| 🟠 | Dec 2022 – Feb 2023 | Data Science Intern | Corizo (Remote) |
 
 <br/>
 
@@ -165,6 +133,8 @@ me.say_hi()
 
 ### 🐍 Languages & Core
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 🛠️ Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -185,7 +155,7 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### ☁️ Cloud / DevOps
@@ -215,47 +185,10 @@ me.say_hi()
 | 🎓 MCA — Master of Computer Application | Technocrats Institute of Technology, RGPV Bhopal | 2020 – 2022 |
 | 🎓 B.Sc. — Bachelor of Science | Govt Jaywanti Haksar P G College, BU Betul | 2017 – 2020 |
 
-**📜 Certifications:** &nbsp;
+**📜 Certifications:**&nbsp;
 ![Coursera](https://img.shields.io/badge/Data%20Analysis-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 ![SkillUP](https://img.shields.io/badge/Python-SkillUP-FF6B35?style=for-the-badge)
 ![SkillUP](https://img.shields.io/badge/Data%20Science-SkillUP-FF6B35?style=for-the-badge)
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitrkvarathe111&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="175" />
-  &nbsp;&nbsp;
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rohitrkvarathe111&theme=tokyonight&hide_border=true" height="175" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrkvarathe111&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" />
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitrkvarathe111&theme=tokyonight&no-frame=true&margin-w=6&column=7" width="100%"/>
-</div>
-
-<br/>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitrkvarathe111&bg_color=1a1b27&color=00d4ff&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
 
 <br/>
 
@@ -272,5 +205,13 @@ me.say_hi()
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e75b6,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+**⭐ If you like my work, consider giving a star to my repositories!**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+build+together+%F0%9F%9A%80" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e75b6,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 </div>
