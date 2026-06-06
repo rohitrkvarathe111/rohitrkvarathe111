@@ -5,10 +5,6 @@
 </p>
 
 <div align="center">
-
-<!-- Animated name banner using svg text - no external capsule-render -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=700&height=80&lines=ROHIT+VARATHE" alt="Name" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=99999&color=00D4FF&background=0D111700&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Backend+%7C+Data+%7C+AI+%26+ML" alt="Title" />
 
 </div>
