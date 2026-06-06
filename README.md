@@ -1,6 +1,17 @@
 <div align="center">
 
-<!-- Animated Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitrkvarathe111/rohitrkvarathe111/main/assets/gradient.svg" width="100%" />
+</p>
+
+<div align="center">
+
+<!-- Animated name banner using svg text - no external capsule-render -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=99999&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=700&height=80&lines=ROHIT+VARATHE" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=99999&color=00D4FF&background=0D111700&center=true&vCenter=true&width=700&height=40&lines=Software+Engineer+%7C+Backend+%7C+Data+%7C+AI+%26+ML" alt="Title" />
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:061533,60:0e4d92,100:00c6ff&height=250&section=header&text=Rohit%20Varathe&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Data%20%7C%20AI%20%26%20ML&descAlignY=65&descSize=18&animation=fadeIn&stroke=00c6ff&strokeWidth=2" width="100%"/>
 
 </div>
@@ -98,6 +109,12 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Resume-00C6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0e4d92&height=3&section=header" width="100%"/>
 </div>
 
 <br/>
@@ -234,6 +251,7 @@ me.say_hi()
 
 <div align="center">
 
+<!-- Animated snake contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitrkvarathe111/rohitrkvarathe111/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitrkvarathe111/rohitrkvarathe111/output/github-contribution-grid-snake.svg"/>
@@ -243,31 +261,15 @@ me.say_hi()
 </div>
 
 <br/>
-
----
-
-## 🌊 Currently Learning
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00C6FF&center=true&vCenter=true&width=500&lines=📚+Machine+Learning+%26+Deep+Learning;🤖+Large+Language+Models+(LLMs);🧠+Generative+AI+%26+Prompt+Engineering;🔗+LangChain+%26+Vector+Databases;🚀+Building+AI-powered+Microservices" />
 
 </div>
-
-<br/>
-
 <div align="center">
 
 **⭐ If you like my work, consider giving a star to my repositories!**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+build+together+%F0%9F%9A%80" />
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:0e75b6,100:0d1117&height=180&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff&fontAlignY=65&descSize=16&desc=Let%27s%20connect%20and%20build%20something%20amazing!&descAlignY=80&animation=fadeIn" width="100%"/>
 </div>
