@@ -13,8 +13,6 @@
 </div>
 
 <div align="center">
-
-<!-- Animated Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00C6FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Hey+there!+I'm+Rohit+%F0%9F%91%8B;Software+Engineer+%40+Genesis+Tech+Engineers;Python+%7C+Django+%7C+FastAPI+Specialist;ETL+Pipelines+%26+Data+Engineering;AI+%26+ML+Explorer+%F0%9F%A4%96;Building+Scalable+Production+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
@@ -69,7 +67,6 @@ me.say_hi()
 - 🌱 Deep-diving into **Machine Learning, AI & LLMs**
 - 👨‍💻 Portfolio: **[rohit.infoz.online](https://rohit.infoz.online/)**
 - 💬 Ask me about **Python · Django · FastAPI · Data Science · ETL**
-- 📄 **[Download My Resume](https://flowcv.com/resume/pessa029le)**
 - 📫 **rohitrkvarathe111@gmail.com**
 
 <br clear="right"/>
@@ -242,20 +239,6 @@ me.say_hi()
 <br/>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Animated snake contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitrkvarathe111/rohitrkvarathe111/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitrkvarathe111/rohitrkvarathe111/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rohitrkvarathe111/rohitrkvarathe111/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
 <br/>
 <div align="center">
 
