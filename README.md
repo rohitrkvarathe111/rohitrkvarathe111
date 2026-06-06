@@ -133,10 +133,6 @@ me.say_hi()
 
 </div>
 
-<br/>
-
----
-
 ## 💻 Tech Stack
 
 ### 🐍 Languages & Core
@@ -194,10 +190,6 @@ me.say_hi()
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,js,postgres,mysql,mongodb,redis,docker,aws,git,linux,postman&theme=dark&perline=15" />
 </div>
 
-<br/>
-
----
-
 ## 🎓 Education & Certifications
 
 <div align="center">
@@ -224,10 +216,6 @@ me.say_hi()
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<br/>
-
----
-<br/>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00C6FF&center=true&vCenter=true&width=500&lines=📚+Machine+Learning+%26+Deep+Learning;🤖+Large+Language+Models+(LLMs);🧠+Generative+AI+%26+Prompt+Engineering;🔗+LangChain+%26+Vector+Databases;🚀+Building+AI-powered+Microservices" />
