@@ -120,10 +120,6 @@ me.say_hi()
 
 </div>
 
-<br/>
-
----
-
 ## 💼 Work Experience
 
 <div align="center">
