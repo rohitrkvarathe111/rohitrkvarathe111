@@ -271,11 +271,11 @@ me.say_hi()
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=00C6FF&center=true&vCenter=true&width=500&lines=📚+Machine+Learning+%26+Deep+Learning;🤖+Large+Language+Models+(LLMs);🧠+Generative+AI+%26+Prompt+Engineering;🔗+LangChain+%26+Vector+Databases;🚀+Building+AI-powered+Microservices" />
 
 </div>
-
-<br/>
-
 ---
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:0e75b6,100:0d1117&height=180&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff&fontAlignY=65&descSize=16&desc=Let%27s%20connect%20and%20build%20something%20amazing!&descAlignY=80&animation=fadeIn" width="100%"/>
+
+**⭐ If you like my work, consider giving a star to my repositories!**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+build+together+%F0%9F%9A%80" />
+
 </div>
