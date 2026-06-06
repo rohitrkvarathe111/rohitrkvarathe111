@@ -98,10 +98,6 @@ me.say_hi()
 <a href="mailto:rohitrkvarathe111@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;
-<a href="https://flowcv.com/resume/pessa029le" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-00C6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
 </div>
 
 <br/>
