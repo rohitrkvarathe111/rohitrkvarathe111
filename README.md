@@ -154,16 +154,18 @@ $ cat skills.txt
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=rohitrkvarathe111&show_icons=true&theme=radical&hide_border=true&count_private=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=rohitrkvarathe111&show_icons=true&theme=radical&hide_border=true" /></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrkvarathe111&layout=compact&theme=radical&hide_border=true" /></td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrkvarathe111&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=rohitrkvarathe111&theme=radical&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitrkvarathe111&theme=react-dark&hide_border=true" width="100%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=rohitrkvarathe111&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
+
+<sub>If any card below still looks empty, it usually means GitHub's stats service is being rate-limited at that moment — reloading the page after a minute normally fixes it.</sub>
 
 </div>
 
