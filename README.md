@@ -10,9 +10,13 @@
 
 <br/>
 
-![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-00ff9c?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117)
-![Experience](https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-38bdf8?style=for-the-badge&logo=buildkite&logoColor=black&labelColor=0d1117)
-![Location](https://img.shields.io/badge/LOCATION-PUNE,_INDIA-f97316?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d1117)
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-00ff9c?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-38bdf8?style=for-the-badge&logo=buildkite&logoColor=black&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/LOCATION-PUNE,_INDIA-f97316?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d1117"/></td>
+</tr>
+</table>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -23,11 +27,13 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="100%">
+<br/>
+
+<table width="100%">
+<tr>
+<td width="100%">
 
 ## 🖥️ About Me
-
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif">
 
 ```bash
 $ whoami
@@ -48,20 +54,38 @@ $ cat skills.txt
 - 🌱 Currently exploring **Generative AI / LLMs** applied to backend engineering
 - 💬 Ask me about API performance tuning, caching strategy, or pipeline design
 
-<br clear="both"/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
 ### 📈 Impact Snapshot
 
-| ⚡ | 🗄️ | 🟢 | 🧑‍💻 |
-|:---:|:---:|:---:|:---:|
-| **40%** | **5M+** | **99.9%** | **2+** |
-| API Latency Reduction | Records Processed Daily | Service Uptime | Years Building Backends |
+<table>
+<tr>
+<th align="center">⚡ Latency</th>
+<th align="center">🗄️ Data Volume</th>
+<th align="center">🟢 Uptime</th>
+<th align="center">🧑‍💻 Experience</th>
+</tr>
+<tr>
+<td align="center"><b>40%</b><br/><sub>API latency reduction</sub></td>
+<td align="center"><b>5M+</b><br/><sub>records processed daily</sub></td>
+<td align="center"><b>99.9%</b><br/><sub>service uptime</sub></td>
+<td align="center"><b>2+</b><br/><sub>years backend engineering</sub></td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br/>
+
+<table width="100%">
+<tr>
+<td width="100%">
 
 ## 💻 Tech Stack
 
@@ -107,34 +131,33 @@ $ cat skills.txt
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="420">
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitrkvarathe111&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrkvarathe111&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c" />
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=rohitrkvarathe111&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrkvarathe111&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c" /></td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrkvarathe111&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitrkvarathe111&theme=react-dark&hide_border=true&bg_color=0D1117&color=00ff9c&line=00ff9c&point=ffffff" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohitrkvarathe111&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrkvarathe111&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitrkvarathe111&theme=react-dark&hide_border=true&bg_color=0D1117&color=00ff9c&line=00ff9c&point=ffffff" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitrkvarathe111&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="100%">
+<br/>
 
 <div align="center">
 
@@ -145,3 +168,4 @@ $ cat skills.txt
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f2027,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
+
