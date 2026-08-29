@@ -1,19 +1,18 @@
-<div align="center">
 <p align="center">
   <img src="https://raw.githubusercontent.com/rohitrkvarathe111/rohitrkvarathe111/main/assets/gradient.svg" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Rohit%20Varathe&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Pune,%20India&descAlignY=58&descSize=18" width="100%"/>
+<div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Building+Scalable+Architectures+for+High-Performance+Systems;Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker;Designing+APIs+that+scale.+Pipelines+that+never+sleep." alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:1a1a2e&height=230&section=header&text=Rohit%20Varathe&fontSize=48&fontColor=00ff9c&animation=fadeIn&fontAlignY=36&desc=%3C%20Backend%20Software%20Engineer%20%2F%2F%20Pune,%20India%20%3E&descAlignY=55&descSize=17&fontFamily=monospace" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9C&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=85&lines=%24+building+scalable+backend+systems...;Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker;while(true)+%7B+optimize()%3B+deploy()%3B+%7D" alt="Typing SVG" />
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Available%20for%20Work-2ecc71?style=for-the-badge&logo=statuspage&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-8b5cf6?style=for-the-badge&logo=buildkite&logoColor=white)
-![Location](https://img.shields.io/badge/Based%20in-Pune,%20India-f97316?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-00ff9c?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117)
+![Experience](https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-38bdf8?style=for-the-badge&logo=buildkite&logoColor=black&labelColor=0d1117)
+![Location](https://img.shields.io/badge/LOCATION-PUNE,_INDIA-f97316?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d1117)
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -24,207 +23,125 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="100%">
 
-## 👋 About Me
+## 🖥️ About Me
 
-```python
-class BackendEngineer:
-    def __init__(self):
-        self.name = "Rohit Varathe"
-        self.role = "Backend Software Engineer"
-        self.location = "Pune, Maharashtra, India"
-        self.stack = ["Python", "Django", "FastAPI", "PostgreSQL", "Redis", "Docker"]
-        self.focus = "High-concurrency microservices & low-latency REST APIs"
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif">
 
-    def current_mission(self):
-        return "Designing scalable backends, optimized for performance ⚡"
+```bash
+$ whoami
+> Rohit Varathe — Backend Software Engineer
+
+$ echo $FOCUS
+> High-concurrency microservices, low-latency REST APIs,
+> automated ETL pipelines
+
+$ cat skills.txt
+> Python · Django · FastAPI · PostgreSQL · Redis · Docker
 ```
 
-I'm a **results-driven Software Engineer** who designs, builds, and deploys **high-concurrency microservices**, **low-latency REST APIs**, and **automated ETL pipelines**. I specialize in **database query optimization** with PostgreSQL and Redis, and orchestrate **containerized systems** on Linux and Docker to ship resilient, production-ready enterprise solutions.
+- ⚡ Results-driven engineer specialized in **query optimization** with PostgreSQL & Redis
+- 🐳 Orchestrates **containerized systems** on Linux & Docker for resilient, production-ready delivery
+- 🌐 Designs secure **microservices & RESTful APIs** with clean, maintainable architecture
+- 📊 Builds **ETL pipelines** that turn messy data into reliable, real-time insight
+- 🌱 Currently exploring **Generative AI / LLMs** applied to backend engineering
+- 💬 Ask me about API performance tuning, caching strategy, or pipeline design
 
-- 🔭 Building clean, maintainable backend systems with Python, Django & FastAPI
-- 🌐 Designing secure microservices & RESTful APIs with seamless integrations
-- 📊 Engineering ETL pipelines that process large-scale datasets into actionable insights
-- ⚙️ Optimizing APIs and databases with caching, indexing & performance tuning
-- 🐳 Deploying on AWS EC2 with Docker, Nginx & Ubuntu Linux
-- 🤖 Exploring AI-driven solutions, data analytics & visualization
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 📈 Impact by the Numbers
+<br clear="both"/>
 
 <div align="center">
 
-| ⚡ 40% | 🗄️ 5M+ | 🟢 99.9% | 🧑‍💻 2+ |
+### 📈 Impact Snapshot
+
+| ⚡ | 🗄️ | 🟢 | 🧑‍💻 |
 |:---:|:---:|:---:|:---:|
-| API Latency Reduction | Data Records Processed Daily | Service Uptime | Years of Experience |
-| via indexing & Redis caching | through optimized ETL pipelines | on containerized AWS EC2 | building scalable backends |
+| **40%** | **5M+** | **99.9%** | **2+** |
+| API Latency Reduction | Records Processed Daily | Service Uptime | Years Building Backends |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🧠 Core Technical Ecosystem
+## 💻 Tech Stack
+
+### 🐍 Languages & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🛠️ Frameworks
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗄️ Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🤖 AI / ML / Data Science
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### ☁️ Cloud / DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🔧 Tools & APIs
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+<br/>
 
 <div align="center">
-
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" />
-
-**APIs & Auth**
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT%2FOAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Databases & Caching**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux" />
-
-**Data, Analytics & AI**
-
-<img src="https://skillicons.dev/icons?i=py,sklearn" /> &nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![GenAI](https://img.shields.io/badge/Generative_AI%2FLLMs-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Web Scraping & Tools**
-
-![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-42b883?style=flat-square)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman" />
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="420">
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🚀 Featured Work
-
-<details open>
-<summary><b>🚚 TransFleet ERP (The Load AI)</b> — Logistics</summary>
-<br/>
-
-`Python` `Django` `DRF` `PostgreSQL` `Redis` `Docker` `Ubuntu`
-
-A production-grade logistics management platform optimizing end-to-end transport operations — customers, load orders, expense ledgers, and electronic Proof of Delivery (ePOD).
-
-- **Challenge:** Real-time expense calculations and simultaneous shipment updates caused high database read-write latency at peak hours.
-- **Solution:** PostgreSQL indexing on critical keys, Redis caching for active reads, optimized ORM lookups via `select_related`/`prefetch_related`.
-- **Impact:** 📉 42% faster API responses · 🔒 Data integrity across 10k+ concurrent shipments · 📤 Secure ePOD image pipelines
-
-</details>
-
-<details>
-<summary><b>🛒 TopTenBazar</b> — E-Commerce</summary>
-<br/>
-
-`Python` `Django` `PostgreSQL` `AWS S3` `Nginx` `Gunicorn` `Ubuntu`
-
-A high-traffic grocery delivery backend supporting secure cart transactions, real-time inventory checks, coupon validations, and automated dispatch.
-
-- **Challenge:** Flash checkout spikes caused race conditions in stock updates and database locking.
-- **Solution:** Strict transaction isolation, distributed locking via Celery, media pipelines moved to AWS S3.
-- **Impact:** ⚡ 200+ concurrent checkouts · 📉 60% lower static media latency · ✅ Zero stock discrepancies during sales
-
-</details>
-
-<details>
-<summary><b>💼 Job Portal</b> — Web Application</summary>
-<br/>
-
-`Python` `Django` `SQLite` `File Storage` `Bootstrap` `PythonAnywhere`
-
-A recruitment hub connecting recruiters and job seekers with dynamic job boards, application trackers, and automated resume uploads.
-
-- **Challenge:** Concurrent file uploads and PDF parsing blocked worker threads, causing timeouts.
-- **Solution:** Asynchronous upload handlers with background queues for compute-heavy parsing.
-- **Impact:** ⏱️ Sub-1.2s upload validation · 🔍 Robust query-based applicant sorting · 💯 Concurrent uploads, zero timeouts
-
-</details>
-
-<details>
-<summary><b>⚡ Adinsi Backend</b> — E-Commerce / Quick Commerce</summary>
-<br/>
-
-`FastAPI` `Django` `PostgreSQL` `Redis` `REST APIs` `Celery`
-
-A performance-optimized API backend coordinating dark-store inventory lookups, rate limiting, and driver assignment algorithms.
-
-- **Challenge:** Querying 5,000+ SKUs across multiple inventory tables slowed checkout APIs beyond 80ms.
-- **Solution:** Inventory states cached in Redis memory hashes for sub-millisecond checks before SQL locks.
-- **Impact:** 🚀 85ms → 4ms inventory checks · 📈 35% higher transactional throughput · 🛡️ Rate-limited endpoints against crawlers
-
-</details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🔬 Engineering Case Study
-
-<div align="center">
-
-### Database Performance Tuning
-
-> Optimized complex SQL queries, added composite index keys, and implemented memory-level Redis caching pools to relieve pressure on the database server.
-
-**Result: 🔥 40% Query Speedup**
-
-`Python` · `Django ORM` · `PostgreSQL` · `Redis`
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🏆 Verified Certifications & Honors
-
-<div align="center">
-
-| 🏅 Certification / Award | Issuer | Focus |
-|---|---|---|
-| Data Analysis | Coursera | Pandas, NumPy, Visualization, EDA |
-| Python Certification | SkillUP by Simplilearn | Advanced Python, OOP, Data Structures, Automation |
-| Data Science | SkillUP by Simplilearn | Machine Learning, Scikit-Learn, SciPy, Analytics |
-| ETL & Automation Excellence Award | Genesis Tech Engineers | ETL Pipelines, Data Engineering, Process Automation |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitrkvarathe111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrkvarathe111&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitrkvarathe111&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrkvarathe111&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrkvarathe111&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrkvarathe111&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitrkvarathe111&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitrkvarathe111&theme=react-dark&hide_border=true&bg_color=0D1117&color=00ff9c&line=00ff9c&point=ffffff" width="100%"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohitrkvarathe111&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="100%">
 
 <div align="center">
 
 ### 💬 Let's Build Something Scalable Together
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Open+to+backend+%26+ETL+engineering+roles;Let's+talk+APIs%2C+pipelines+%26+performance+tuning!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=620&lines=Open+to+backend+%26+ETL+engineering+roles;Let's+talk+APIs%2C+pipelines+%26+performance+tuning!" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f2027,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
