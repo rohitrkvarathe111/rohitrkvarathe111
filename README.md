@@ -4,25 +4,35 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:1a1a2e&height=230&section=header&text=Rohit%20Varathe&fontSize=48&fontColor=00ff9c&animation=fadeIn&fontAlignY=36&desc=%3C%20Backend%20Software%20Engineer%20%2F%2F%20Pune,%20India%20%3E&descAlignY=55&descSize=17&fontFamily=monospace" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=230&section=header&text=Rohit%20Varathe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Software%20Engineer%20%2F%2F%20Pune,%20India&descAlignY=55&descSize=17&fontFamily=monospace" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF9C&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=85&lines=%24+building+scalable+backend+systems...;Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker;while(true)+%7B+optimize()%3B+deploy()%3B+%7D" alt="Typing SVG" />
+<sub>🎨 banner color changes on every refresh</sub>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=85&lines=%24+building+scalable+backend+systems...;Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker;while(true)+%7B+optimize()%3B+deploy()%3B+%7D" alt="Typing SVG" />
 
 <br/>
 
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-00ff9c?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117"/></td>
-<td align="center"><img src="https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-38bdf8?style=for-the-badge&logo=buildkite&logoColor=black&labelColor=0d1117"/></td>
-<td align="center"><img src="https://img.shields.io/badge/LOCATION-PUNE,_INDIA-f97316?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-2ecc71?style=for-the-badge&logo=statuspage&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-8b5cf6?style=for-the-badge&logo=buildkite&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/LOCATION-PUNE,_INDIA-f97316?style=for-the-badge&logo=googlemaps&logoColor=white"/></td>
 </tr>
 </table>
 
+### 📬 Contact & Links
+
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://rohit.infoz.online/"><img src="https://img.shields.io/badge/Portfolio-rohit.infoz.online-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:rohitrkvarathe111@gmail.com"><img src="https://img.shields.io/badge/Email-rohitrkvarathe111%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohitrkvarathe111"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/rohitrkvarathe111"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/rohitrkvarathe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/i_m_rohit29"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 </div>
@@ -144,16 +154,16 @@ $ cat skills.txt
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=rohitrkvarathe111&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrkvarathe111&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=rohitrkvarathe111&show_icons=true&theme=radical&hide_border=true&count_private=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrkvarathe111&layout=compact&theme=radical&hide_border=true" /></td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrkvarathe111&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitrkvarathe111&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitrkvarathe111&theme=react-dark&hide_border=true&bg_color=0D1117&color=00ff9c&line=00ff9c&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitrkvarathe111&theme=react-dark&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohitrkvarathe111&theme=algolia&no-frame=true&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rohitrkvarathe111&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
 
 </div>
 
@@ -165,7 +175,6 @@ $ cat skills.txt
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=620&lines=Open+to+backend+%26+ETL+engineering+roles;Let's+talk+APIs%2C+pipelines+%26+performance+tuning!" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f2027,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&section=footer" width="100%"/>
 
 </div>
-
