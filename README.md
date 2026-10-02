@@ -22,7 +22,7 @@
 <img src="./id-dashboard.svg?v=2" alt="Developer ID and Systems Dashboard" width="100%"/>
 
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="Distributed Backend Systems & Infrastructure Matrix" width="100%"/>
+<img src="./profile-view-dark.svg" alt="Distributed Backend Systems & Infrastructure Matrix" width="100%"/>
 
 
 <!-- 💌 LET'S CONNECT -->
