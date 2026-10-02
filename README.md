@@ -56,19 +56,19 @@
   <div>
     <img
       src="https://github-readme-stats.vercel.app/api?username=rohitrkvarathe111&show_icons=true&theme=radical&hide_border=true"
-      height="150"
+      height="120"
       alt="GitHub Stats"
     />
     &nbsp;
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitrkvarathe111&layout=compact&theme=radical&hide_border=true"
-      height="150"
+      height="120"
       alt="Top Languages"
     />
     &nbsp;
     <img
       src="https://streak-stats.demolab.com/?user=rohitrkvarathe111&theme=radical&hide_border=true"
-      height="150"
+      height="120"
       alt="GitHub Streak"
     />
   </div>
